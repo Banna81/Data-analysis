@@ -1,4 +1,4 @@
-# Data-analysis
+# Twitter dogs rating trend and image prediction analysis
 Collecting and Investigating 3 datasets about tweets of dogs pictures that are rated about how cute they are  
 The data is collected from Twitter API for the tweets, json file describing the prediction of the dogs breeds.
 Gathering:
